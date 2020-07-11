@@ -1,4 +1,3 @@
-***Absolute beginner level application in React.js
-I built this purely for practice with state management, context api, and react programming in general***
+***Absolute beginner level application in React.  I built this purely for practice with state management, context api, and react programming in general***
 
-Add a movie to a list.  It has no real use.
+Keep a list of movies and their prices.
